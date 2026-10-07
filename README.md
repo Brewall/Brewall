@@ -1,15 +1,18 @@
 <div align="center">
-  <h1>¡Hola! Soy Karlo Aldair 👋</h1>
-  <p>Desarrollador de software enfocado en <strong>Java (Spring Boot)</strong> y <strong>Vue 3</strong></p>
-  <p>En constante aprendizaje, explorando buenas prácticas y la construcción de proyectos útiles.</p>
+  <h1>Karlo Aldair</h1>
   
+  <!-- Animación tipo máquina de escribir -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=4FC08D&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot;Frontend+con+Vue+3+%2B+Tailwind;En+constante+aprendizaje+y+mejora" alt="Typing SVG" />
+  </a>
+
   <p>
-    <img src="https://img.shields.io/badge/Ubicación-Perú-D80027?style=flat-square&logo=googlemaps&logoColor=white" alt="Perú" />
+    <img src="https://img.shields.io/badge/Perú-D80027?style=flat-square&logo=googlemaps&logoColor=white" alt="Perú" />
   </p>
 
   <br />
 
-  <!-- Iconos vistosos interactivos -->
+  <!-- Iconos oficiales interactivos -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,vue,vite,tailwind,js,git,gradle,linux,postman" alt="Mis tecnologías" />
   </a>
@@ -17,17 +20,17 @@
 
 ---
 
-### 🌱 Sobre Mí
+### Sobre Mí
 
-- 📚 Me apasiona la programación y busco aprender continuamente para mejorar la calidad y estructura de mi código.
-- ☕ En el backend, me gusta trabajar con el ecosistema de **Java y Spring Boot**, organizando el código por capas y desarrollando APIs REST.
-- 🎨 En el frontend, disfruto crear interfaces sencillas, limpias y reactivas utilizando **Vue 3, Vite y Tailwind CSS**.
-- 🎯 Actualmente enfocado en adoptar hábitos profesionales: testing automatizado, contenedores con Docker y buenas prácticas de Git.
-- 🤝 Siempre abierto a sugerencias, revisiones de código y retroalimentación para seguir mejorando.
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%234FC08D" width="16" height="16" /> Me apasiona la programación y busco aprender continuamente para mejorar la calidad y estructura de mi código.
+- <img src="https://api.iconify.design/lucide:server.svg?color=%23ED8B00" width="16" height="16" /> En el backend, me gusta trabajar con el ecosistema de **Java y Spring Boot**, organizando el código por capas y desarrollando APIs REST.
+- <img src="https://api.iconify.design/lucide:layout.svg?color=%234FC08D" width="16" height="16" /> En el frontend, disfruto crear interfaces sencillas, limpias y reactivas utilizando **Vue 3, Vite y Tailwind CSS**.
+- <img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%23F05032" width="16" height="16" /> Actualmente enfocado en adoptar hábitos profesionales: testing automatizado, contenedores con Docker y buenas prácticas de Git.
+- <img src="https://api.iconify.design/lucide:message-square.svg?color=%234169E1" width="16" height="16" /> Siempre abierto a sugerencias, revisiones de código y retroalimentación para seguir mejorando.
 
 ---
 
-### 🛠️ Tecnologías que uso y estoy aprendiendo
+### Tecnologías
 
 **Backend & Persistencia**  
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,7 +54,7 @@
 
 ---
 
-### 📁 Proyectos que he desarrollado
+### Proyectos
 
 | Proyecto | Resumen | Tecnologías |
 | :--- | :--- | :--- |
@@ -62,7 +65,7 @@
 
 ---
 
-### 📊 Mi Actividad en GitHub
+### Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brewall&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_rank=true&count_private=true" alt="Estadísticas de GitHub" />
